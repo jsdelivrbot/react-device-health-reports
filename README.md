@@ -11,7 +11,7 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
-Application takes a csv file(s) formatted with the following columns: "timestamp", "id", "type", "status" via upload and takes the data to produce two types of reports.
+Application takes a csv file(s) formatted with the following columns: "timestamp", "id", "type", "status" via upload and takes the data and puts it into the Redux state store to produce two types of reports.
 
 The first report reports on the top 10 most mentioned device IDs for a particular day (selectable via a dropdown generated from timestamp data) and a percentage comparison with respect to the day of the previous week.
 
