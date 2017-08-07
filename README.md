@@ -7,7 +7,7 @@
 > npm start
 ```
 
-### Getting Started
+### Summary
 
 Application takes a csv file(s) formatted with the following columns: "timestamp", "id", "type", "status" via upload and takes the data and puts it into the Redux state store to produce two types of reports.
 
